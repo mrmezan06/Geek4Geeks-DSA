@@ -10,3 +10,4 @@ This repository contains the solutions to the problems of the [GeeksforGeeks](ht
     - [ ] [Pattern 20](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/#pattern-20)
     - [ ] [Pattern 21](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/#pattern-21)
     - [ ] [Pattern 22](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/#pattern-22)
+- [Things to Know in C++/Java/Python or any language](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
