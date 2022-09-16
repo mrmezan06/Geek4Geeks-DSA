@@ -14,9 +14,24 @@ class Solution {
 }
 
 public class ReverseNumber {
+
+    // https://takeuforward.org/data-structure/count-digits-in-a-number/
+    // Count Digit
+    public static int countDigit(int N) {
+        int count = 0;
+        while (N > 0) {
+            N = N / 10;
+            count++;
+        }
+        return count;
+    }
+
     public static void main(String[] args) {
         Solution obj = new Solution();
         int N = 12345;
         System.out.println(obj.reverseNumber(N));
+
+        // Count Digit
+        System.out.println(countDigit(N));
     }
 }
