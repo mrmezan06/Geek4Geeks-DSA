@@ -1,5 +1,6 @@
 package ReverseNumber;
 
+// https://takeuforward.org/c-programs/reverse-a-number-in-c/
 class Solution {
     public int reverseNumber(int N) {
         int s = 0;
