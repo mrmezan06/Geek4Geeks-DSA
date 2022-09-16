@@ -1,5 +1,7 @@
 package Palindrome;
 
+// https://practice.geeksforgeeks.org/problems/palindrome0746/1
+
 class Solution {
     public String isPalindrome(int n) {
         String s = Integer.toString(n);
