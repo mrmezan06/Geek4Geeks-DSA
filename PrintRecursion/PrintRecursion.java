@@ -12,11 +12,25 @@ class Solution {
     }
 }
 
+// Reverse print
+class Solution1 {
+    public void printNos(int N) {
+        if (N < 1) {
+            return;
+        }
+        System.out.print(N + " ");
+        printNos(N - 1);
+    }
+}
+
 // Driver Code Starts
 class PrintRecursion {
     public static void main(String[] args) {
         Solution ob = new Solution();
+        Solution1 ob1 = new Solution1();
         int n = 15;
         ob.printNos(n);
+        System.out.println();
+        ob1.printNos(n);
     }
 }
